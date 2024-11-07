@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+  
+    flex-direction: column;
+    align-items: center;
+   
+    padding: 24px;
+  }
+  .spanMainFirst{
+    font-size: 3rem;
+  }
